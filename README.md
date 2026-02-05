@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumyasoni2248" alt="saumyasoni2248" /></a> </p>
 
-- 🔭 I’m currently working on **Core java**
+- 🔭 I’m currently working on ** Advance Java**
 
-- 🌱 I’m currently learning **HTML, CSS , Bootstrap,Tailwind,java and javascript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Internship Opportunity**
 
-- 📝 I regularly write articles on [https://site-4vgd8qmtu.godaddysites.com/](https://site-4vgd8qmtu.godaddysites.com/)
-
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Core java**
 
 - 📫 How to reach me **saumyasoni00745@gmail.com**
 
